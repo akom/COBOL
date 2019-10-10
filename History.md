@@ -20,6 +20,8 @@ Observe que o código COBOL, exceto literais, não diferencia maiúsculas de min
 
 Hoje, o COBOL ainda é uma linguagem ativa para aplicativos comerciais. O código COBOL existente desenvolvido no passado deve ser mantido e aprimorado. Novos recursos do COBOL permitem que o COBOL seja usado para desenvolver os programas atuais. Acredita-se que existam mais linhas de código COBOL no mundo do que todas as outras linguagens de programação combinadas.
 
+![Image of Compiladores Cobol](https://github.com/akom/COBOL/blob/master/images/COBOL%20Compilers%20Today.JPG)
+
 Existem muitos compiladores COBOL disponíveis hoje, alguns continuam a suportar sistemas e aplicativos herdados, outros estão disponíveis para plataformas mais modernas, como o MacOS. Todos eles suportam o COBOL-85, com muitos também suportando recursos adicionais do COBOL-2002. Muitos compiladores também podem oferecer suporte a extensões do COBOL padrão; por exemplo, alguns compiladores podem produzir Bytecode que são executados em qualquer Java Virtual Machine (JVM).
 
 Alguns compiladores também adicionam recursos que não estão nos padrões COBOL.
